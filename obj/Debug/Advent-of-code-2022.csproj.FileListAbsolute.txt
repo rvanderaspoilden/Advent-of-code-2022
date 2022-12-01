@@ -1,0 +1,6 @@
+C:\Users\Rodolphe V\RiderProjects\Advent-of-code-2022\Advent-of-code-2022\bin\Debug\Advent_of_code_2022.exe
+C:\Users\Rodolphe V\RiderProjects\Advent-of-code-2022\Advent-of-code-2022\bin\Debug\Advent_of_code_2022.pdb
+C:\Users\Rodolphe V\RiderProjects\Advent-of-code-2022\Advent-of-code-2022\obj\Debug\Advent-of-code-2022.csproj.AssemblyReference.cache
+C:\Users\Rodolphe V\RiderProjects\Advent-of-code-2022\Advent-of-code-2022\obj\Debug\Advent-of-code-2022.csproj.CoreCompileInputs.cache
+C:\Users\Rodolphe V\RiderProjects\Advent-of-code-2022\Advent-of-code-2022\obj\Debug\Advent_of_code_2022.exe
+C:\Users\Rodolphe V\RiderProjects\Advent-of-code-2022\Advent-of-code-2022\obj\Debug\Advent_of_code_2022.pdb
