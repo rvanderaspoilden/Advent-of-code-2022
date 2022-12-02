@@ -4,3 +4,9 @@ C:\Users\Rodolphe V\RiderProjects\Advent-of-code-2022\Advent-of-code-2022\obj\De
 C:\Users\Rodolphe V\RiderProjects\Advent-of-code-2022\Advent-of-code-2022\obj\Debug\Advent-of-code-2022.csproj.CoreCompileInputs.cache
 C:\Users\Rodolphe V\RiderProjects\Advent-of-code-2022\Advent-of-code-2022\obj\Debug\Advent_of_code_2022.exe
 C:\Users\Rodolphe V\RiderProjects\Advent-of-code-2022\Advent-of-code-2022\obj\Debug\Advent_of_code_2022.pdb
+C:\Workspace\C#\Advent-of-code-2022\Advent-of-code-2022\bin\Debug\Advent_of_code_2022.exe
+C:\Workspace\C#\Advent-of-code-2022\Advent-of-code-2022\bin\Debug\Advent_of_code_2022.pdb
+C:\Workspace\C#\Advent-of-code-2022\Advent-of-code-2022\obj\Debug\Advent-of-code-2022.csproj.AssemblyReference.cache
+C:\Workspace\C#\Advent-of-code-2022\Advent-of-code-2022\obj\Debug\Advent-of-code-2022.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\Advent-of-code-2022\Advent-of-code-2022\obj\Debug\Advent_of_code_2022.exe
+C:\Workspace\C#\Advent-of-code-2022\Advent-of-code-2022\obj\Debug\Advent_of_code_2022.pdb

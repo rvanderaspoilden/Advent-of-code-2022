@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace Advent_of_code_2022 {
-    internal class Program {
-        private static readonly string textFile = @"C:\Users\Rodolphe V\RiderProjects\Advent-of-code-2022\Advent-of-code-2022\Day1\data.txt";
+namespace Advent_of_code_2022.Day1 {
+    internal class DayOne : DaySolver {
+        private static readonly string textFile = @"C:\Workspace\C#\Advent-of-code-2022\Advent-of-code-2022\Day1\data.txt";
 
-        public static void Main(string[] args) {
+        public static void Solve() {
             if (!File.Exists(textFile)) throw new Exception("Data file not found");
 
             string[] lines = File.ReadAllLines(textFile);
